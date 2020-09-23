@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import './App.css';
-import ViewWindow from './components/viewComponent'
+import ViewWindow from './components/viewWindow'
 import KeyPad from './components/input'
 
 function App() {
