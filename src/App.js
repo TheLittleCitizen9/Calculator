@@ -7,7 +7,7 @@ function App() {
   return (
     <div className="App">
       <ViewWindow result="Hi"/>
-      <KeyPad></KeyPad>
+      <KeyPad/>
     </div>
   );
 }
