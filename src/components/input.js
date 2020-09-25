@@ -26,7 +26,7 @@ function KeyPad(props) {
         </div>
         <div className="row">
             <button className="col-3" name="-" onClick={buttonPressed}>-</button>
-            <button className="col-3" name="%" onClick={buttonPressed}>%</button>
+            <button className="col-3" name="/" onClick={buttonPressed}>/</button>
             <button className="col-3" name="*" onClick={buttonPressed}>*</button>
         </div>
         <div className="row">
